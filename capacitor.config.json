@@ -1,0 +1,6 @@
+{
+  "appId": "ir.medical.smartassistant",
+  "appName": "پزشک‌یار هوشمند",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
